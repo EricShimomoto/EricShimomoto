@@ -16,4 +16,4 @@
 </div>
 
 
-![snake animation](https://github.com/EricShimomoto/EricShimomoto/blob/output/github-contribution-grid-snake.svg)
+
