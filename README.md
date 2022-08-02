@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Machine learning and other languages
 - 📫 How to reach me: eric.shimomoto@gmail.com
 - ⚙️ Fun fact: I'm actually a Mechanical Engineer :B
+- 📝 Note that my public repositories follow the pattern: ##.ProgramingLanguage_ProjectTitle, feel free to explore
 
 ##
 <div align="center">
