@@ -1,10 +1,11 @@
 ## Hey there, I'm Eric Shimomoto
 
 
-- 🔭 I’m currently working on GUI Aplications for WinOS and LinuxOS
+- 🔭 I’m currently working on GUI Apps for SemiConductor industries
+- 🖥️ Developing in WinOS (XP to 11) and LinuxOS (Ubuntu and Parrot) 
 - 🌱 I’m currently learning Machine learning and other languages
 - 📫 How to reach me: eric.shimomoto@gmail.com
-- ⚡ Fun fact: I'm actually a Mechanical Engineer :B
+- ⚙️ Fun fact: I'm actually a Mechanical Engineer :B
 
 ##
 <div align="center">
