@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on GUI Apps for SemiConductor industries
-- 🖥️ Developing in WinOS (XP to 11) and LinuxOS (Ubuntu and Parrot) 
+- 🖥️ Developing in WinOS (XP to 11) and LinuxOS (Debian) 
 - 🌱 I’m currently learning Machine learning and other languages
 - 📫 How to reach me: eric.shimomoto@gmail.com
 - ⚙️ Fun fact: I'm actually a Mechanical Engineer :B
